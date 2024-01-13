@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90f32861-8e5a-4167-a38d-7f0740e91aef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/(home)/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/(home)/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/studio/[[...index]]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Filters.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ResourceCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SearchForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ChatGPT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Threejs-Cheatsheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/arrow-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/arrow_trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/arrow_white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/downloads.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front-end-roadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/hamburger-menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/jsm-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/jsm_resources_banner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/jsm_resources_banner.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/magnifying-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/web3.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity.cli.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/env.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/lib/client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/lib/image.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/schemas/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/schemas/resource-playlist.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/schemas/resource.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2asWuItrCbdneLNCh2n6I2CbA4e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mmxcx/WebstormProjects/create-next-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/mmxcx/WebstormProjects/create-next-app/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sanity/schemas" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/(root)" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90f32861-8e5a-4167-a38d-7f0740e91aef" name="Changes" comment="" />
+      <created>1705107987327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705107987327</updated>
+      <workItem from="1705107988470" duration="71000" />
+      <workItem from="1705108205412" duration="1750000" />
+      <workItem from="1705109966852" duration="526000" />
+      <workItem from="1705110503399" duration="9829000" />
+      <workItem from="1705173393432" duration="6344000" />
+      <workItem from="1705179768273" duration="7490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
