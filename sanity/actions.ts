@@ -7,10 +7,9 @@ interface GetResourcesParams {
   category: string
   page: string
 }
-
+2:06:54
 export const getResources = async (params: GetResourcesParams) => {
   const { query, category, page } = params
-
   try {
     const resources = await readClient.fetch(
       groq`${buildQuery({
@@ -30,7 +29,7 @@ export const getResources = async (params: GetResourcesParams) => {
     )
 
     return resources
-  } catch (e) {
-    console.log(e)
+  } catch (error) {
+    console.log(error)
   }
 }

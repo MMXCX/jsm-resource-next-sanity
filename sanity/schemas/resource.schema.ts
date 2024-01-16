@@ -26,7 +26,7 @@ const schema = {
       name: 'views',
       title: 'Views',
       type: 'number',
-      initialValue: 0
+      initialValue: 0,
     },
     {
       name: 'poster',
@@ -34,7 +34,7 @@ const schema = {
       type: 'image',
       validation: (Rule: any) => Rule.required(),
       options: {
-        hotspot: true
+        hotspot: true,
       }
     },
     {
@@ -43,7 +43,7 @@ const schema = {
       type: 'string',
       validation: (Rule: any) => Rule.required(),
       options: {
-        list: [ 'next 13', 'frontend', 'backend', 'fullstack', 'other' ]
+        list: [ 'frontend', 'backend', 'next 13', 'fullstack', 'other' ]
       }
     }
   ]
